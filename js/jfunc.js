@@ -1,11 +1,11 @@
 $(document).ready( function() {
 
 	$('#aboutme').click( function () {
-		window.location = "/Users/dinsdalelee/Documents/HTML-Project/ParallaxPersonalSite/aboutme.html";
+		window.location = "/Users/dinsdalelee/Documents/djmlee.github.io/aboutme.html";
 	}); //About Me
 	
 	$('#cisc3150').click( function () {	
-		alert('cisc3150.html not created yet');
+		window.location = "/Users/dinsdalelee/Documents/djmlee.github.io/3150.html";
 	}); //CISC3150 Programming Projects
 
 	$('#cisc3110').click( function () {
@@ -21,7 +21,7 @@ $(document).ready( function() {
 	}); //Youtube
 
 	$('#home').click( function () {
-		window.location = "/Users/dinsdalelee/Documents/HTML-Project/ParallaxPersonalSite/homepage.html";
+		window.location = "/Users/dinsdalelee/Documents/djmlee.github.io/index.html";
 	}); //Home
 	
 	

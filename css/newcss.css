@@ -26,6 +26,14 @@
     margin: 30px 60px;
 }
 
+.content h2 {
+	font-size: 30px;
+	color: #464646;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	margin: 30px 60px;
+}
+
 .content p {
     font-size:20px;
     color: #343434;
