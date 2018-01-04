@@ -48,6 +48,13 @@
     font-weight: 300;
     margin: 30px 60px;
 }
+.content h4 {
+	font-size:15px;
+	color: #343434;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	margin: 30px 60px;
+}
 .content li {
 	font-size:20px;
 	color: #343434;
